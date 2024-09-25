@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color:greenyellow;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color:rgb(34, 243, 51);
+.nav-link:hover{
+     
+    color: black;   
+    }
+}
+.search{
+    height: 25px;
+    width: 80%;
+    border-radius: 60px;
+    outline:none;
+    border: 2px solid rgb(11, 146, 22);
+
+}
+.btn0{
+    height: 40%;
+    width: 40%;
+    outline: none;
+    border: none;
+    background-color: chartreuse;
+    color: aliceblue;
+    font-weight: 700;
+}
